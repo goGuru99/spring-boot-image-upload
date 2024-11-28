@@ -1,6 +1,6 @@
 # Spring Boot Image Upload example with Olexandr
 
-Build Spring Boot Upload Image and Display example with Thymeleaf - Bootstrap, Form, List of Images - Thymeleaf Image Upload/Download example.
+Build Spring Boot Upload Image and Display example with Thymeleaf - Bootstrap, Form, List of Images -  Image Upload/Download Dashboard.
 
 ![spring-boot-image-upload-example](spring-boot-image-upload-example.png)
 
